@@ -10,3 +10,7 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 * [challenge02](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge02): Slave and Free Negroes (plate 12), February 12
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%202/Week2.png)
+
+* * [challenge03](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge03): Acres of Land Owned by Negroes in Georgia (plate 19), February 19
+ 
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%203/Week3.png)
