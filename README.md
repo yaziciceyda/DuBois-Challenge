@@ -19,4 +19,4 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 ### BLACK
 
 * [challenge04](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge04): The Georgia Negro (plate 01), February 26
-![image] (https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%204/Week4.png)
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%204/Week4.png)
