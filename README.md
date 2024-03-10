@@ -12,7 +12,7 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%202/Week2.png)
 
-* * [challenge03](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge03): Acres of Land Owned by Negroes in Georgia (plate 19), February 19
+* [challenge03](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge03): Acres of Land Owned by Negroes in Georgia (plate 19), February 19
  
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%203/Week3.png)
 
@@ -20,3 +20,6 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 
 * [challenge04](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge04): The Georgia Negro (plate 01), February 26
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%204/Week4.png)
+
+* [challenge05](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge05): Race Amalgamation in Georgia (plate 13), March 4
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%205/Week5.png)
