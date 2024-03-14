@@ -23,3 +23,6 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 
 * [challenge05](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge05): Race Amalgamation in Georgia (plate 13), March 4
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%205/Week5.png)
+
+* [challenge6](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge06): Amalgamation of the White and Black elements of the population in the United States (plate 54), March 11
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%206/Week6.png)
