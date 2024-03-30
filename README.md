@@ -27,5 +27,10 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 * [challenge06](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge06): Amalgamation of the White and Black elements of the population in the United States (plate 54), March 11
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%206/Week6.png)
 
+### GREEN
+
 * [challenge07](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge07): Illiteracy of the American Negro compared with other nations (plate 47), March 18
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%207/Week7.png)
+
+* [challenge08](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge08): The Rise of Negroes from Slavery to Freedom in One Generation (plate 50), March 25
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%208/Week8.png)
