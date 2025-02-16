@@ -1,8 +1,22 @@
 # DuBois-Challenge
 
-The goal of the challenge is to celebrate the data visualization legacy of W.E.B Du Bois by recreating the visualizations from the 1900 Paris Exposition using modern tools. The details of the challenge is [here](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2024/README.md).
+## 2025
+
+A goal of Du Bois's exhibition in 1900 was to demonstrate the economic development Black people since emancipation in 1865. One hundred and sixty years later, in 2025, this year's challenge will focus on visuals dealing with _Ecomomics_.
+
+### CHALLENGE 01 - Value of Land Owned by Georgia Negroes (plate 18)
+
+* [challenge01](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge01): Value of Land Owned by Georgia Negroes  (plate 18), February 3
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%201/week1.png)
+
+The animated plot is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%201/week1.gif)
 
 ## 2024
+
+The goal of the challenge is to celebrate the data visualization legacy of W.E.B Du Bois by recreating the visualizations from the 1900 Paris Exposition using modern tools. The details of the challenge is [here](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2024/README.md).
 
 ### RED
 
@@ -36,3 +50,5 @@ The goal of the challenge is to celebrate the data visualization legacy of W.E.B
 
 * [challenge08](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024/challenge08): The Rise of Negroes from Slavery to Freedom in One Generation (plate 50), March 25
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2024/Week%208/Week8.png)
+
+
