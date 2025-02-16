@@ -14,6 +14,17 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%201/week1.gif)
 
+### CHALLENGE 02 - Acres of Land Owned by Negroes in Georgia (plate 19)
+
+* [challenge02](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge02): Acres of Land Owned by Negroes in Georgia  (plate 19), February 10
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%202/Week2.png)
+
+The animated plot is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%202/week2.gif)
+
+
 ## 2024
 
 The goal of the challenge is to celebrate the data visualization legacy of W.E.B Du Bois by recreating the visualizations from the 1900 Paris Exposition using modern tools. The details of the challenge is [here](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2024/README.md).
