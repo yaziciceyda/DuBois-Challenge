@@ -24,6 +24,16 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%202/week2.gif)
 
+### CHALLENGE 03 -  Land Owned by Negroes in Georgia, USA, 1870-1900 (plate 20)
+
+* [challenge03](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge03): Land Owned by Negroes in Georgia, USA, 1870-1900  (plate 20), February 17
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%203/Week%203.png)
+
+The cartography example is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%203/Week3_cartography.png)
+
 
 ## 2024
 
