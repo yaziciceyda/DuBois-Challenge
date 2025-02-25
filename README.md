@@ -24,7 +24,7 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%202/week2.gif)
 
-### CHALLENGE 03 -  Land Owned by Negroes in Georgia, USA, 1870-1900 (plate 20)
+### CHALLENGE 03 - Land Owned by Negroes in Georgia, USA, 1870-1900 (plate 20)
 
 * [challenge03](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge03): Land Owned by Negroes in Georgia, USA, 1870-1900  (plate 20), February 17
 
@@ -34,6 +34,15 @@ The cartography example is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%203/Week3_cartography.png)
 
+### CHALLENGE 04 - Valuation of Town and City Property Owned by Georgia Negroes (plate 21)
+
+* [challenge04](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge04): Valuation of Town and City Property Owned by Georgia Negroes (plate 21), February 24
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%204/Week%204.png).
+
+The animated plot is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%204/Week%204_animation.gif)
 
 ## 2024
 
