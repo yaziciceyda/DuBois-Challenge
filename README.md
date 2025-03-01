@@ -44,6 +44,16 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%204/Week%204_animation.gif)
 
+### CHALLENGE 05 - Assessed Valuation of all Taxable Property Owned by Georgia Negroes (plate 22)
+
+* [challenge05](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge05): Assessed Valuation of all Taxable Property Owned by Georgia Negroes (plate 22), March 3
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%205/Week%205.png).
+
+The animated plot is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%205/Week%205_animation.gif)
+
 ## 2024
 
 The goal of the challenge is to celebrate the data visualization legacy of W.E.B Du Bois by recreating the visualizations from the 1900 Paris Exposition using modern tools. The details of the challenge is [here](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2024/README.md).
