@@ -54,6 +54,18 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%205/Week%205_animation.gif)
 
+### CHALLENGE 06 - Negro Property in Two Cities of Georgia (plate 23)
+
+* [challenge06](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge06): Negro Property in Two Cities of Georgia (plate 23), March 10
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206.png).
+
+Another plot is
+
+![image]([https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206.png](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206_version2.png).
+
+
+
 ## 2024
 
 The goal of the challenge is to celebrate the data visualization legacy of W.E.B Du Bois by recreating the visualizations from the 1900 Paris Exposition using modern tools. The details of the challenge is [here](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2024/README.md).
