@@ -62,7 +62,17 @@ The animated plot is
 
 Another plot is
 
-![image]([https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206.png](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206_version2.png).
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%206/Week%206_version2.png).
+
+### CHALLENGE 07 - Assessed Value of Household and Kitchen Furniture Owned by Georgia Negroes (plate 25)
+
+* [challenge07](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge07): Assessed Value of Household and Kitchen Furniture Owned by Georgia Negroes (plate 25), March 17
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%207/Week%207.png).
+
+The animated plot is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%207/Week%207_animation.gif).
 
 
 
