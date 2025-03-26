@@ -74,6 +74,17 @@ The animated plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%207/Week%207_animation.gif).
 
+### CHALLENGE 08 - Occupations Of Georgia Negroes (plate 26)
+
+* [challenge08](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge08): Occupations Of Georgia Negroes (plate 26), March 24
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%208/Week%208.png).
+
+The treemap is
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%208/Week%208_treemap.png).
+
+
 
 
 ## 2024
