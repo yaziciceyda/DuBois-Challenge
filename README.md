@@ -84,7 +84,15 @@ The treemap is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%208/Week%208_treemap.png).
 
+### CHALLENGE 09 - Occupations Of Negroes And Whites In Georgia (plate 27)
 
+* [challenge09](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge09): Occupations Of Negroes And Whites In Georgia (plate 27), March 31
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%209/Week%209.png).
+
+Another plot is 
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%209/Week%209_version2.png).
 
 
 ## 2024
