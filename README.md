@@ -94,6 +94,20 @@ Another plot is
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%209/Week%209_version2.png).
 
+### CHALLENGE 10 - Income and Expenditure (plate 31)
+
+* [challenge10](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge10): Income and Expenditure (plate 31), April 7
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010.png).
+
+Another plot is
+
+![image] (https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2.png)
+
+and the same plot without percentages is
+
+![image] (https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2_without_percentages.png)
+
 
 ## 2024
 
