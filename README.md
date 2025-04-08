@@ -102,11 +102,11 @@ Another plot is
 
 Another plot is
 
-![image] (https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2.png)
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2.png)
 
 and the same plot without percentages is
 
-![image] (https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2_without_percentages.png)
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2025/Week%2010/Week%2010_version2_without_percentages.png)
 
 
 ## 2024
