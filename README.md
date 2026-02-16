@@ -16,7 +16,7 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ## 2025
 
-A goal of Du Bois's exhibition in 1900 was to demonstrate the economic development Black people since emancipation in 1865. One hundred and sixty years later, in 2025, this year's challenge will focus on visuals dealing with _Ecomomics_.
+A goal of Du Bois's exhibition in 1900 was to demonstrate the economic development Black people since emancipation in 1865. One hundred and sixty years later, in 2025, this year's challenge will focus on visuals dealing with _Economics_.
 
 ## 2024
 
