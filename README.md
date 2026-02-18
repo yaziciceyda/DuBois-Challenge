@@ -9,11 +9,17 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ### CHALLENGE 01 -  The Georgia Negro (plate 01), February 9
 
-* [challenge01](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026/challenge01):  The Georgia Negro (plate 01), February 9
+* [challenge01](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026/challenge01):  The Georgia Negro (plate 01)
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%201/Week1.png)
 
+### CHALLENGE 02 -  Relative Negro Population of the States of the United States (plate 02), February 16
 
+* [challenge01](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026/challenge02):  The Georgia Negro (plate 01),  Relative Negro Population of the States of the United States (plate 02)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%202/Week2.png)
+
+  
 ## 2025
 
 A goal of Du Bois's exhibition in 1900 was to demonstrate the economic development Black people since emancipation in 1865. One hundred and sixty years later, in 2025, this year's challenge will focus on visuals dealing with _Economics_.
