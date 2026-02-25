@@ -15,9 +15,15 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ### CHALLENGE 02 -  Relative Negro Population of the States of the United States (plate 02), February 16
 
-* [challenge01](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026/challenge02):  The Georgia Negro (plate 01),  Relative Negro Population of the States of the United States (plate 02)
+* [challenge02](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2026/challenge02):  The Georgia Negro (plate 01),  Relative Negro Population of the States of the United States (plate 02)
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%202/Week2.png)
+
+### CHALLENGE 03 -  Negro Population of Georgia by Counties, 1890 (plate 05), February 23
+
+* [challenge03](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge03/original-plate-05.jpg):  Negro Population of Georgia by Counties, 1890 (plate 05)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%203/Week3.png)
 
   
 ## 2025
