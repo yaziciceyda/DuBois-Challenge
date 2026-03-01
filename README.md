@@ -25,6 +25,12 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%203/Week3.png)
 
+### CHALLENGE 04 -  Negro Population of Georgia by Counties, 1870, 1880 (plate 06), March 2
+
+* [challenge04](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge04/original-plate-06.jpg):  Negro Population of Georgia by Counties, 1870, 1880  (plate 06)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%204/Week4.png)
+
   
 ## 2025
 
