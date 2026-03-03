@@ -31,6 +31,12 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%204/Week4.png)
 
+### CHALLENGE 05 -  Migration of Negroes 1890 (plate 08), March 9
+
+* [challenge05](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge05/original-plate-08.jpg):  Migration of Negroes 1890 (plate 08), March 9
+  
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%205/Week5.png)
+
   
 ## 2025
 
