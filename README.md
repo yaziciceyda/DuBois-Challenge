@@ -41,7 +41,7 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 * [challenge06](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge06/original-plate-20.jpg):  Land Owned by Negroes in Georgia, USA, 1870-1900 (plate 20), March 16
   
-![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%206/original-plate-20.jpg)
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%206/Week6.png)
 
   
 ## 2025
