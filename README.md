@@ -43,6 +43,12 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
   
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%206/Week6.png)
 
+### CHALLENGE 07 -  A Series Of Statistical Charts Illustrating The Conditions Of Descendants Of Formal African Slaves Now Resident In The Unites States (plate 37), March 23
+
+* [challenge07](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge07/original-plate-37.jpg):  A Series Of Statistical Charts Illustrating The Conditions Of Descendants Of Formal African Slaves Now Resident In The Unites States (plate 37)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%207/Week%207.png)
+
   
 ## 2025
 
