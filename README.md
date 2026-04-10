@@ -51,11 +51,15 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ### CHALLENGE 08 -  Distribution of Negroes in the United States (plate 38), March 30
 
-* [challenge07](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge07/original-plate-38.jpg): Distribution of Negroes in the United States (plate 38)
+* [challenge08](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge07/original-plate-38.jpg): Distribution of Negroes in the United States (plate 38)
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%208/Week%208.png)
 
+### CHALLENGE 09 -  Population Comparison (plate 41), April 6
 
+* [challenge09](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge09/original-plate-41.jpg): Population Comparison (plate 41)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%209/Week%209.png)
 
   
 ## 2025
