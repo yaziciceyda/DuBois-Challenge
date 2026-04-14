@@ -61,6 +61,12 @@ A goal of Du Bois's exhibition in 1900 was to demonstrate the development Black 
 
 ![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%209/Week%209.png)
 
+### CHALLENGE 10 -  Population Proportions (plate 42), April 13
+
+* [challenge10](https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/2026/challenge10/original-plate-42.jpg): Population Proportions (plate 42)
+
+![image](https://github.com/yaziciceyda/DuBois-Challenge/blob/main/2026/Week%2010/Week%2010.png)
+
   
 ## 2025
 
